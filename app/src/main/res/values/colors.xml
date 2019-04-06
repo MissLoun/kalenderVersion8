@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="weiß">#ffffff</color>
+    <color name="grau">#565656</color>
+    <color name="hellgrau">#E7E7E7</color>
+    <color name="schwarz">#000000</color>
+    <color name="ausgewaehlt">#3ca2a2a2</color>
+
+    <color name="detail">#83629a</color>
+    <!--<color name="detail">#b60003</color>-->
+
+
+</resources>

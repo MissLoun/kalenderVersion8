@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Familienkalender</string>
+
+    <string name="einstellungen">Zu den Einstellungen</string>
+    <string name="neuerTermin">neuen Termin erstellen</string>
+    <string name="leererText"> </string>
+
+    <string name="zuvor">zuvor</string>
+    <string name="weiter">weiter</string>
+
+    <string name="titel">Titel eingeben</string>
+    <string name="ganztaegig">Ganztägig</string>
+    <string name="start">Start</string>
+    <string name="wann">Wann?</string>
+    <string name="ende">Ende</string>
+    <string name="datum">tt.mm.yyyy</string>
+    <string name="zeit">HH:mm</string>
+    <string name="zeitMitString">HH:mm</string>
+    <string name="speichern">Speichern</string>
+    <string name="abbrechen">Abbruch</string>
+
+    <string name="terminIstGanztaegig">%1$s findet am %2$s den ganzen Tag lang statt.</string>
+    <string name="terminIstNichtGanztaegig">%1$s findet zwischen dem %2$s um %3$s und dem %4$s um %5$s statt.</string>
+
+    <string name="toastInfoFehlt">Min. eine Information fehlt!</string>
+
+
+    <string name="montag">Mo</string>
+    <string name="dienstag">Di</string>
+    <string name="mittwoch">Mi</string>
+    <string name="donnerstag">Do</string>
+    <string name="freitag">Fr</string>
+    <string name="samstag">Sa</string>
+    <string name="sonntag">So</string>
+
+
+
+
+    <string-array name="monate">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+
+</resources>
